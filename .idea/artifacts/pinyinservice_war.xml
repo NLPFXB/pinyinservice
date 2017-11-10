@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pinyinservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="pinyinservice-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pinyinservice:war exploded" />
+    </root>
+  </artifact>
+</component>
